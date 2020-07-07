@@ -1,1 +1,2 @@
-<!ENTITY lat "23.890537213284048">
+<!ENTITY input "23.890537213284048">
+<!ENTITY % stage "<!ENTITY lat '%input;'>">
